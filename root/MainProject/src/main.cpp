@@ -1,6 +1,8 @@
-#include <iostream>
-#include "simplecmake/printhello.h"
+#include<iostream>    
+using namespace std;    
 
-void printhello() {
-  std::cout << "Hello World\n";
-}
+int main()    
+{    
+    cout<<"Hello World"<<endl;    
+    return 0;    
+}    
