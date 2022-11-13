@@ -1,3 +1,3 @@
 project(MyProject)
-add_subdirectory(MainProject)
-add_subdirectory(LibProject)
+add_subdirectory(root/MainProject)
+add_subdirectory(root/LibProject)
