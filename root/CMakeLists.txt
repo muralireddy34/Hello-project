@@ -1,3 +1,3 @@
 project(Hello-project)
-add_subdirectory(MainProject)
-add_subdirectory(LibProject)
+add_subdirectory(MainProject/src)
+add_subdirectory(LibProject/src/)
